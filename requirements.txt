@@ -1,0 +1,4 @@
+pydantic
+schedule
+requests
+aiohttp
